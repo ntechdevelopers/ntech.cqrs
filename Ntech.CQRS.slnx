@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ntech.CQRS.Api/Ntech.CQRS.Api.csproj" />
+    <Project Path="src/Ntech.CQRS.Application/Ntech.CQRS.Application.csproj" />
+    <Project Path="src/Ntech.CQRS.Core/Ntech.CQRS.Core.csproj" />
+    <Project Path="src/Ntech.CQRS.Tests/Ntech.CQRS.Tests.csproj" />
+  </Folder>
+</Solution>
